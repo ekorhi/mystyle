@@ -1,0 +1,189 @@
+/** General section **/
+html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header li {
+    display: inline;
+    width: 80px;
+    padding: 2px;
+}
+
+
+main.banner {
+    text-align: center;
+    color: #6495ED;
+    background-color: #00FFFF;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+main.banner h1 {
+    Font-weight: 700;
+    Font-size: 28px;
+    Font-family: Nunito Sans;
+}
+
+
+/* nav */
+nav {
+
+}
+
+/* Colors Sections */
+.Same {
+    width: 900px;
+    margin: 0 auto;
+    border: 1px solid #6495ED;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.Same h2 {
+    Font-weight: 600;
+    Font-size: 19px;
+    Font-family: Poppins;
+}
+
+.clors-box {
+    width: 200px;
+    text-align: center;
+    background-color: #2d5dcc;
+    padding: 2px;
+    margin: 10px 5px;
+    display: inline-block;
+}
+.box-blueviolet {
+    background-color: #8a2be2;
+    color: #F5DEB3;
+}
+.box-mediumspringgreen {
+    background-color: #3CB371;
+    color: #F0FFF0;
+}
+.box-cornflowerblue {
+    background-color: #6495ED;
+    color: #00FFFF;
+}
+.box-royalllue {
+    background-color: #4169E1;
+    color: #ADFF2F;
+}
+.box-papayaWhip {
+    background-color: #FFEFD5;
+    color: #696969;
+}
+.box-slategray {
+    background-color: #708090;
+    color: #F0F8FF;
+}
+.box-coral {
+    background-color: #FF7F50;
+    color: #FFFAFA;
+}
+.box-forestgreen {
+    background-color: #228B22;
+    color: #FFFAFA;
+}
+.box-blue {
+    background-color: #0000FF;
+    color: #00FF00;
+}
+.box-aqua {
+    background-color: #00FFFF;
+    color: #6495ED;
+}
+.box-bisque {
+    background-color: #FFE4C4;
+    color: #696969;
+}
+.box-dimgray {
+    background-color: #696969;
+    color: #FFFFE0;
+}
+.clors-box p {
+    Font-weight: 600;
+    Font-size: 14px;
+    Font-family: Poppins;
+}
+
+ /* Fonts Sections */
+.font-box {
+    width: 430px;
+    padding: 2px;
+    margin: 5px 5px;
+    display: inline-block;
+}
+.font-box p.bold {
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-decoration: underline;
+}
+.removespace {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.box-arial {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.box-verdana {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.box-tahoma {
+    font-family: Tahoma, 'Segoe UI', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.box-trebuchetms {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.box-timesnewroman {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.box-georgia {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.box-garamond {
+    font-family: Garamond, serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.box-brushscriptmt {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.h1style {
+    Font-weight: 800;
+    Font-size: 40px;
+    Font-family: 'Nunito Sans';
+}
+h2.h2style {
+    Font-weight: 700;
+    Font-size: 28px;
+    Font-family: Poppins;
+}
+.h3style {
+    Font-weight: 600;
+    Font-size: 24px;
+    Font-family: Poppins;
+}
+.pstyle {
+    Font-weight: 400;
+    Font-size: 18px;
+    Font-family: Poppins;
+}
+ 
